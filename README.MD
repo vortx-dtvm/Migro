@@ -22,7 +22,7 @@ After migrated the repository, download the new repository or update your git re
 
 ### Example :eyes:
 
-- `sh migrate.sh git@ssh.dev.azure.com:v3/vortxrepositories/VxCadastro/VxCadastro.API git@github.com:vortx-dtvm/VxCadastro.API.git`
-- `cd VxCadastro.API`
-- `git remote set-url origin git@github.com:vortx-dtvm/VxCadastro.API.git`
+- `sh migrate.sh git@ssh.dev.azure.com:v3/orgName/RepoName/migro.API git@github.com:orgname/Migro.API.git`
+- `cd Migro`
+- `git remote set-url origin git@github.com:orgname/Migro.API.git`
 
