@@ -26,3 +26,5 @@ After migrated the repository, download the new repository or update your git re
 - `cd Migro`
 - `git remote set-url origin git@github.com:orgname/Migro.API.git`
 
+teste
+
